@@ -1,6 +1,4 @@
-# Android开发
-
-![image](https://github.com/JACKSKYHADES0910/Android_Developer/assets/90612462/8f7ab360-bb77-4592-a496-57782f5e93cf)
+# Android开发、
 
 ## 1. Android开发前准备工作
 
