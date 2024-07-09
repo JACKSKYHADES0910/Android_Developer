@@ -3,7 +3,17 @@
 ## 1. Android开发前准备工作
 
 ### 1.1 Android Studio下载
+## Windows
 
+### 系统要求
+
+| 需求       | 最低配置                                    | 推荐配置                            |
+|------------|---------------------------------------------|-------------------------------------|
+| 操作系统   | Windows 7/8/10（32位或64位）                 | Windows 10 64位                     |
+| CPU        | x86_64 处理器；支持 Second Level Address Translation (SLAT) 的 Intel 处理器；AMD 的 Ryzen 架构处理器 | Intel Core i5 或更高配置            |
+| 内存       | 3 GB RAM 最小配置，推荐 8 GB RAM             | 16 GB RAM                           |
+| 硬盘空间   | 2 GB 可用磁盘空间 (不包括IDE和Android SDK的大小) | 4 GB 或更多                         |
+| 屏幕分辨率 | 1280 x 800                                  | 1920 x 1080 或更高                  |
 1. [Android Studio中文开发网](https://developer.android.google.cn/studio?hl=zh-cn)
 
 ![image](https://github.com/JACKSKYHADES0910/Android_Developer/assets/90612462/408b7259-64ba-48f1-a9b6-0b8b744767fb)
